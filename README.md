@@ -5,3 +5,6 @@ We're building Book Bot - a Python program that analyzes novels and prints a sta
 3. Deploy a Python project on your personal GitHub account
 4. Learn how to use a professional code editor (VS Code)
 
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
